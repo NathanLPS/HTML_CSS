@@ -1,0 +1,28 @@
+/* Estilos Página Index.html */
+.center{
+    text-align: center;
+}
+h1 {
+    color: rgba(235, 160, 23, 0.884);
+    text-align: center;
+  }
+  body {
+    background-color: lightgray;
+  }
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+  }
+ .p-30{
+    padding: 30px;
+  }
+  .br-50{
+    border-radius: 50%;
+  }
