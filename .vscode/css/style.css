@@ -1,15 +1,15 @@
-/* Estilos Página Index.html */
+/* Estilos Página Bolo.html */
 .center{
     text-align: center;
 }
-h1 {
+.h1 {
     color: rgba(235, 160, 23, 0.884);
     text-align: center;
   }
-  body {
+body {
     background-color: lightgray;
   }
-  .flex-container {
+.flex-container {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -26,3 +26,25 @@ h1 {
   .br-50{
     border-radius: 50%;
   }
+  /* Estilos Página ListaSpotify.html */
+
+.titulo{
+  color: green;
+  text-align: center;
+}
+.link{
+  text-decoration: none;
+  color: blue;
+}
+.link:hover{
+  color: green;
+}
+.boldcenter{
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+}
+.esquerda{
+  align-items: flex-start;
+  
+}
