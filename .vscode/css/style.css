@@ -13,6 +13,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+  
   }
   .container{
     display: flex;
@@ -26,6 +27,11 @@ body {
   .br-50{
     border-radius: 50%;
   }
+  .log{
+    text-decoration: none;
+    
+  }
+
   /* Estilos Página ListaSpotify.html */
 
 .titulo{
@@ -47,4 +53,16 @@ body {
 .esquerda{
   align-items: flex-start;
   
+}
+
+/* Estilos emailCadastro.html */
+
+.body{
+  background-color: white;
+}
+.flex-container2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+
 }
